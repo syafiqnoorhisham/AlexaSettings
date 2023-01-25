@@ -1,0 +1,14 @@
+/Users/macbookpromid2012/Projects/AlexaSetttings/AlexaSetttings/bin/Debug/netcoreapp3.1/AlexaSetttings
+/Users/macbookpromid2012/Projects/AlexaSetttings/AlexaSetttings/bin/Debug/netcoreapp3.1/AlexaSetttings.deps.json
+/Users/macbookpromid2012/Projects/AlexaSetttings/AlexaSetttings/bin/Debug/netcoreapp3.1/AlexaSetttings.runtimeconfig.json
+/Users/macbookpromid2012/Projects/AlexaSetttings/AlexaSetttings/bin/Debug/netcoreapp3.1/AlexaSetttings.runtimeconfig.dev.json
+/Users/macbookpromid2012/Projects/AlexaSetttings/AlexaSetttings/bin/Debug/netcoreapp3.1/AlexaSetttings.dll
+/Users/macbookpromid2012/Projects/AlexaSetttings/AlexaSetttings/bin/Debug/netcoreapp3.1/AlexaSetttings.pdb
+/Users/macbookpromid2012/Projects/AlexaSetttings/AlexaSetttings/obj/Debug/netcoreapp3.1/AlexaSetttings.csproj.AssemblyReference.cache
+/Users/macbookpromid2012/Projects/AlexaSetttings/AlexaSetttings/obj/Debug/netcoreapp3.1/AlexaSetttings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpromid2012/Projects/AlexaSetttings/AlexaSetttings/obj/Debug/netcoreapp3.1/AlexaSetttings.AssemblyInfoInputs.cache
+/Users/macbookpromid2012/Projects/AlexaSetttings/AlexaSetttings/obj/Debug/netcoreapp3.1/AlexaSetttings.AssemblyInfo.cs
+/Users/macbookpromid2012/Projects/AlexaSetttings/AlexaSetttings/obj/Debug/netcoreapp3.1/AlexaSetttings.csproj.CoreCompileInputs.cache
+/Users/macbookpromid2012/Projects/AlexaSetttings/AlexaSetttings/obj/Debug/netcoreapp3.1/AlexaSetttings.dll
+/Users/macbookpromid2012/Projects/AlexaSetttings/AlexaSetttings/obj/Debug/netcoreapp3.1/AlexaSetttings.pdb
+/Users/macbookpromid2012/Projects/AlexaSetttings/AlexaSetttings/obj/Debug/netcoreapp3.1/AlexaSetttings.genruntimeconfig.cache
